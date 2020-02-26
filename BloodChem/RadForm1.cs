@@ -19,8 +19,26 @@ namespace BloodChem
             InitializeComponent();
 
             radPropertyGrid1.SelectedObject = User;
+            //radPropertyGrid1.SelectedObject = bloodResult;
+            blood.Init(User.HashCode);
+
         }
 
         public User User { get; set; } = new User();
+        public BloodChemGen blood { get; set; } = new BloodChemGen();
+        public BloodResult bloodResult { get; set; } = new BloodResult();
+
+        private void radRadioButton1_ToggleStateChanged(object sender, StateChangedEventArgs args)
+        {
+            if (radRadioButton1.IsChecked)
+            {
+                radPropertyGrid1.SelectedObject = User;
+            }
+            if (radRadioButton2.IsChecked)
+            {
+                radPropertyGrid1.SelectedObject = bloodResult;
+            }
+
+        }
     }
 }

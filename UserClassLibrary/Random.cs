@@ -37,7 +37,7 @@ namespace UserClassLibrary
         public int From { get; set; } = 0;
         public int To { get; set; } = 100;
 
-        int Nex() => MyRandom.GeneratorRandom.Next(From, To);
+        public int Next() => MyRandom.GeneratorRandom.Next(From, To);
 
     }
 
@@ -52,7 +52,8 @@ namespace UserClassLibrary
         public double mu => (To + From) / 2.0;
         public double sigma => H / 6.0;
 
-        double Nex() => Normal.Sample(MyRandom.GeneratorRandom, mu, sigma);
+        public double Next() => Normal.Sample(MyRandom.GeneratorRandom, mu, sigma);
+        public double Next(MyRandom random) => Normal.Sample(random.GeneratorRandom, mu, sigma);
     }
 
     public class RandomNames
@@ -61,7 +62,7 @@ namespace UserClassLibrary
         public PersonNameGenerator NameGenerator { get; set; } = new PersonNameGenerator();
         public void Init(MyRandom myRandom)
         {
-            MyRandom = new MyRandom();
+            MyRandom = myRandom;
             NameGenerator = new PersonNameGenerator(MyRandom.GeneratorRandom);
         }
 

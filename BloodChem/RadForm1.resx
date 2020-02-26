@@ -123,6 +123,12 @@
   <metadata name="visualStudio2012LightTheme1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>179, 17</value>
   </metadata>
+  <data name="radTextBox1.Text" xml:space="preserve">
+    <value>Введите личные данные и перейдите на следующую складку.
+Там скопируйте данные из таблицы и передайте в программу статистического анализа.
+Найдите интервальные оценки среднего  и стандартного отклонения по указанным преподавателем столбцам
+</value>
+  </data>
   <metadata name="crystalTheme1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>394, 17</value>
   </metadata>

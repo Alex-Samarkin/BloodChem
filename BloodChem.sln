@@ -10,6 +10,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodChem", "BloodChem\Bloo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserClassLibrary", "UserClassLibrary\UserClassLibrary.csproj", "{593779ED-2B0F-49A7-8929-983D428E5E2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HypTest", "HypTest\HypTest.csproj", "{00B3BB85-6640-41AA-B427-FDA2536DFDE6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{593779ED-2B0F-49A7-8929-983D428E5E2D} = {593779ED-2B0F-49A7-8929-983D428E5E2D}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +38,13 @@ Global
 		{593779ED-2B0F-49A7-8929-983D428E5E2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{593779ED-2B0F-49A7-8929-983D428E5E2D}.Release|x86.ActiveCfg = Release|Any CPU
 		{593779ED-2B0F-49A7-8929-983D428E5E2D}.Release|x86.Build.0 = Release|Any CPU
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Debug|Any CPU.Build.0 = Debug|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Debug|x86.ActiveCfg = Debug|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Debug|x86.Build.0 = Debug|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Release|Any CPU.ActiveCfg = Release|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Release|x86.ActiveCfg = Release|x86
+		{00B3BB85-6640-41AA-B427-FDA2536DFDE6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

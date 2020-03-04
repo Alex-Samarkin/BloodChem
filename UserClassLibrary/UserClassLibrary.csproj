@@ -50,8 +50,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BloodChemGen.cs" />
+    <Compile Include="OneSampleWithCode.cs" />
+    <Compile Include="OneSample.cs" />
     <Compile Include="Random.cs" />
     <Compile Include="BloodResult.cs" />
+    <Compile Include="SimpleDouble.cs" />
+    <Compile Include="TwoSample.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

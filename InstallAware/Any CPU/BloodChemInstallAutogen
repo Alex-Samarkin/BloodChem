@@ -1,0 +1,220 @@
+Install Files
+Create Shortcut
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+$
+{D7ACE1AD-4B3F-4F49-A07D-4BFAA76402E1}
+{AB5E8C7B-02E0-4D66-9CE3-89751F87C8BE}
+{534188F9-9B3E-425F-A84E-FB64C806D2DE}
+{AC471A2E-B5CF-4A54-9519-4D6536DA3A10}
+{52022D55-6A22-4604-872D-D6F8F3209B24}
+{3F8A6AB2-9E42-42F2-9997-1C7FD8B84885}
+{1F20D76F-1D68-4AD5-8864-CEA8D54C5C04}
+{85DEE649-C0DC-47DD-8F90-417732961BB2}
+{7B2E07FF-B1A3-4EF5-9D20-3DB748734A69}
+{7878CB53-131F-4ADA-9428-DF1FF55EE41D}
+{5753E4C2-02FD-4BD3-B6B4-04EDC4D24E75}
+{B0EB5152-D066-4488-97E9-AE0CC807C98B}
+{E045D5E8-D9E9-485A-8340-10CF8D2C697A}
+{BC82918A-91AF-4E8F-A613-7674E3FF2B29}
+{0C8421B2-A684-4017-ABAB-E77B0504B4F8}
+{EAB08405-7616-44FA-856C-CD7187EFE513}
+{B568A0E4-8C1C-41D4-85B4-DC4EC3919BB3}
+{7AA8DFB3-3483-4BC1-A9A1-73A12EF12DBF}
+{7F814FEE-882A-401B-9C93-843F0CB13E5C}
+{D1952589-C42B-46C7-A4B2-7E55C0EEB38E}
+{65270638-6CDA-4289-B425-A04D0F2B55F4}
+{6F43E96C-6C3B-4574-A6DF-0230FBAC1C24}
+{6117B67D-ADDD-4F62-80AD-05539F41F546}
+{F99C6B76-88CB-4E37-BAE9-5D2EB35A1EAE}
+{BF39C4F4-F43B-43A9-ADE8-AC31B8A60662}
+$
+{D7ACE1AD-4B3F-4F49-A07D-4BFAA76402E1}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\BloodChem\bin\Debug\BloodChem.exe
+FALSE
+$TARGETDIR$
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+{AB5E8C7B-02E0-4D66-9CE3-89751F87C8BE}
+$TARGETDIR$\BloodChem.exe
+BloodChem
+$SHORTCUTFOLDER$
+BloodChem
+
+
+
+
+0
+{534188F9-9B3E-425F-A84E-FB64C806D2DE}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Documents.SpreadsheetStreaming.dll
+TRUE
+
+{AC471A2E-B5CF-4A54-9519-4D6536DA3A10}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.dll
+TRUE
+
+{52022D55-6A22-4604-872D-D6F8F3209B24}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.ChartView.dll
+TRUE
+
+{3F8A6AB2-9E42-42F2-9997-1C7FD8B84885}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.GridView.dll
+TRUE
+
+{1F20D76F-1D68-4AD5-8864-CEA8D54C5C04}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.Themes.Crystal.dll
+TRUE
+
+{85DEE649-C0DC-47DD-8F90-417732961BB2}
+E:\Program Files (x86)\Progress\Telerik UI for WinForms R2 2019\Bin40\Telerik.WinControls.Themes.CrystalDark.dll
+TRUE
+
+{7B2E07FF-B1A3-4EF5-9D20-3DB748734A69}
+E:\Program Files (x86)\Progress\Telerik UI for WinForms R2 2019\Bin40\Telerik.WinControls.Themes.Fluent.dll
+TRUE
+
+{7878CB53-131F-4ADA-9428-DF1FF55EE41D}
+E:\Program Files (x86)\Progress\Telerik UI for WinForms R2 2019\Bin40\Telerik.WinControls.Themes.Material.dll
+TRUE
+
+{5753E4C2-02FD-4BD3-B6B4-04EDC4D24E75}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.Themes.Office2013Dark.dll
+TRUE
+
+{B0EB5152-D066-4488-97E9-AE0CC807C98B}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.Themes.Office2013Light.dll
+TRUE
+
+{E045D5E8-D9E9-485A-8340-10CF8D2C697A}
+E:\Program Files (x86)\Progress\Telerik UI for WinForms R2 2019\Bin40\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+TRUE
+
+{BC82918A-91AF-4E8F-A613-7674E3FF2B29}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+TRUE
+
+{0C8421B2-A684-4017-ABAB-E77B0504B4F8}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.WinControls.UI.dll
+TRUE
+
+{EAB08405-7616-44FA-856C-CD7187EFE513}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Documents.Core.dll
+TRUE
+
+{B568A0E4-8C1C-41D4-85B4-DC4EC3919BB3}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Documents.Fixed.dll
+TRUE
+
+{7AA8DFB3-3483-4BC1-A9A1-73A12EF12DBF}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Documents.Spreadsheet.dll
+TRUE
+
+{7F814FEE-882A-401B-9C93-843F0CB13E5C}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+TRUE
+
+{D1952589-C42B-46C7-A4B2-7E55C0EEB38E}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+TRUE
+
+{65270638-6CDA-4289-B425-A04D0F2B55F4}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\Telerik.Windows.Zip.dll
+TRUE
+
+{6F43E96C-6C3B-4574-A6DF-0230FBAC1C24}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\TelerikCommon.dll
+TRUE
+
+{6117B67D-ADDD-4F62-80AD-05539F41F546}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\TelerikData.dll
+TRUE
+
+{F99C6B76-88CB-4E37-BAE9-5D2EB35A1EAE}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\lib\RCWF\2019.2.618.40\TelerikExport.dll
+TRUE
+
+{BF39C4F4-F43B-43A9-ADE8-AC31B8A60662}
+C:\Users\Alex\source\repos\Alex-Samarkin\BloodChem\UserClassLibrary\bin\Debug\UserClassLibrary.dll
+FALSE
+$TARGETDIR$
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$

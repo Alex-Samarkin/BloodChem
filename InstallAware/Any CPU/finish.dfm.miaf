@@ -1,0 +1,10 @@
+﻿IF (checkSuccess.Caption = COMPLETE)  THEN  RunNow.Visible := True;
+IF (checkSuccess.Caption = REBOOT)  THEN  RebootNow.Visible := True;
+IF (checkSuccess.Caption = COMPLETE)  THEN  RunNowText.Visible := True;
+IF (checkSuccess.Caption = REBOOT)  THEN  RebootNowText.Visible := True;
+IF (checkSuccess.Caption <> COMPLETE)  THEN  RunNow.Visible := False;
+IF (checkRemove.Caption = TRUE)  THEN  RunNow.Visible := False;
+IF (checkSuccess.Caption <> REBOOT)  THEN  RebootNow.Visible := False;
+IF (checkSuccess.Caption <> COMPLETE)  THEN  RunNowText.Visible := False;
+IF (checkRemove.Caption = TRUE)  THEN  RunNowText.Visible := False;
+IF (checkSuccess.Caption <> REBOOT)  THEN  RebootNowText.Visible := False;
